@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SunClock</string>
+    <string name="time_placeholder">--:--</string>
+</resources>
